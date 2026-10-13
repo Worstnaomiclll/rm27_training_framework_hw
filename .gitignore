@@ -1,0 +1,21 @@
+# 构建产物
+build/
+cmake-build-*/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.d
+
+# 系统 / 编辑器
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
